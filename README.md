@@ -38,18 +38,23 @@ The project showcases advanced SQL techniques, including data aggregation, condi
 ## Screenshots
 
 - ERD (Entity Relationship Diagram)
+
 ![Image1](https://i.imgur.com/mPXU1H0.jpeg)
 
 - Category-wise Books count
+
 ![Image2](https://i.imgur.com/AsjiZiT.jpeg)
 
 - Total Rental Income by Category
+
 ![Image3](https://i.imgur.com/OKtYls5.jpeg)
 
 - Employees, Branch Manager and Branch details
+
 ![image4](https://i.imgur.com/JdkRvIR.jpeg)
 
 - Table of Books with different Rental Price categories
+
 ![Image5](https://i.imgur.com/9j4D0F0.jpeg)
 
 
